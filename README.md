@@ -40,10 +40,15 @@ npm run lint	Lint the source code
 
 Folder Structure
 project/
+
 ├── src/                  # Main source code
+
 ├── index.html            # App entry HTML
+
 ├── package.json          # Project metadata and scripts
+
 ├── tailwind.config.js    # Tailwind CSS configuration
+
 └── vite.config.ts        # Vite configuration
 
 License
