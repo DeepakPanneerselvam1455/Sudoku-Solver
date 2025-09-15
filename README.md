@@ -8,7 +8,7 @@ Solve Sudoku puzzles interactively in the browser!
 ---
 
 ## 🖼️ Preview  
-![Sudoku Game Screenshot](df0de5fb-613e-42eb-8a57-834f71533e01.png)  
+![Sudoku Game Screenshot](Screenshot%202025-09-15%20161847.png)    
 
 ---
 
