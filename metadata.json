@@ -1,0 +1,5 @@
+{
+  "name": "AI Sudoku Solver",
+  "description": "An interactive Sudoku game that uses AI to recognize puzzles from images and provides tools to solve them. Upload an image of a Sudoku puzzle, and let the AI fill the board. Then, solve it yourself, get hints, or have the AI solve the entire puzzle for you. Features a sleek, modern interface with dark and light themes.",
+  "requestFramePermissions": []
+}
